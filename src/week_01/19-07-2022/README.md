@@ -33,3 +33,5 @@ R// Java es un lenguaje que es al mismo tiempo interpretado y compilado, porque 
 ## High and Low level languages
 
 Los lenguajes de alto nivel son lenguajes que el humano puede entender y los lenguajes de bajo nivel son aquellos que la maquina puede entender.
+
+[Regresar](/)
