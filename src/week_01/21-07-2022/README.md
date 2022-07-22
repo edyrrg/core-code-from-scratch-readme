@@ -32,7 +32,8 @@ if ((cond = true)) {
 }
 
 //correction
-/*El prosito de evaluar una variable en una condicion es determinar su falsedad o veracidad,
+/*
+El prosito de evaluar una variable en una condicion es determinar su falsedad o veracidad,
  en el caso del bad code realiza un asignacion a cond en vez de evaluar cond para determinar 
  si es falsa o verdadera.
 */
@@ -66,3 +67,5 @@ if (n < 1000 && n % 10 == 0) {
   console.log('This number is multiple of 10');
 }
 ```
+
+[Regresar](/README.md)
