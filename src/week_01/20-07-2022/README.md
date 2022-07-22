@@ -54,7 +54,7 @@ Obtenido de [Significados](https://www.significados.com/sistema-binario/)
 
 1. Create a program that adds any two given numbers provided by the user.
 
-```MIPS
+```Assembly
 .data
     numberOne: .asciiz "\nIngrese el primer numero: "
     numberTwo: .asciiz "\nIngrese el segundo numero: "
@@ -94,7 +94,7 @@ Obtenido de [Significados](https://www.significados.com/sistema-binario/)
 
 2. Create a program that displays your name.
 
-```MIPS
+```Assembly
 .data
 message: .asciiz "\What's your name?"
 printHello: .asciiz "Hello "
