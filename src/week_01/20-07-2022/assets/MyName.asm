@@ -1,8 +1,26 @@
 .data
-	message: .asciiz "\My name is Edy Rojas"
+message: .asciiz "\What's your name?"
+printHello: .asciiz "Hello "
+userInput: .space 20
+
 .text
-	main:
-	li $v0, 4
-	la $a0, message
-	syscall
-	
+main:
+    li      $v0,    4
+    la      $a0,    message
+    syscall 
+
+    li      $v0,    8
+    la      $a0,    userInput
+    li      $a1,    20
+    syscall 
+
+    li      $v0,    4
+    la      $a0,    printHello
+    syscall 
+
+    li      $v0,    4
+    la      $a0,    userImput
+    syscall 
+
+    li      $v0,    10
+    syscall 
