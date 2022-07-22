@@ -32,7 +32,9 @@ if ((cond = true)) {
 }
 
 //correction
-/*El prosito de evaluar una variable en una condicion es determinar su falsedad o veracidad, en el caso del bad code realiza un asignacion a cond en vez de evaluar cond para determinar si es falsa o verdadera.
+/*El prosito de evaluar una variable en una condicion es determinar su falsedad o veracidad,
+ en el caso del bad code realiza un asignacion a cond en vez de evaluar cond para determinar 
+ si es falsa o verdadera.
 */
 
 var cond = false;
