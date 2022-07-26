@@ -1,7 +1,7 @@
 # core-code-from-scratch-readme
 
 > Welcome! </br>
-> This is my __README.md__ for fundamentals. </br>
+> This is my __README.md__ for bootcamp fundamentals :D. </br>
 
 ## Index
 
