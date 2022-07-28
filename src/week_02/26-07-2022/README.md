@@ -1,6 +1,6 @@
 # Multiply / Code Wars
 
-- Description
+- Description:
 This code does not execute properly. Try to figure out why.
 
 ```JavaScript
@@ -16,7 +16,7 @@ function multiply(a, b){
 
 # ASCII / Code Wars
 
-- Description
+- Description:
 You'll be given a string, and have to return the sum of all characters as an int. The function should be able to handle all ASCII characters.
 
 ```JavaScript
@@ -30,3 +30,5 @@ function uniTotal (string) {
   return total;
 }
 ```
+
+[ascii.js](/src/week_02/26-07-2022/ascii.js)
