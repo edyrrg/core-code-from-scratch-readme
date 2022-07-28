@@ -72,3 +72,5 @@ console.log(calcRectArea(5, 6));
 ```
 
 [fuente](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)
+
+[Regresar](/README.md)

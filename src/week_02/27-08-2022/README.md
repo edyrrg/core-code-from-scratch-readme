@@ -74,3 +74,5 @@ function finalGrade (exam, projects) {
 ```
 
 [challengesWednesday.js](/src/week_02/27-08-2022/challengesWednesday.js)
+
+[Regresar](/README.md)
