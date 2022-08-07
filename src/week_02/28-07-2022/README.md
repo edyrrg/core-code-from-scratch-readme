@@ -108,4 +108,5 @@ function persistence(num) {
 ```
 
 [challengeTuesday.js](/src/week_02/28-07-2022/challengeTuesday.js)
+
 [Regresar](/README.md)
