@@ -1,5 +1,5 @@
 // Numeros pares con for
-for (let i = 0; i <= 100; i++) {
+for (let i = 0; i <= 10; i++) {
     if (i % 2 == 0) {
         console.log(i);
     }
@@ -8,7 +8,7 @@ for (let i = 0; i <= 100; i++) {
 // Numeros pares con while
 let contador = 0;
 
-while(contador <= 100){
+while(contador <= 10){
     if (contador % 2 == 0) {
         console.log("Realizado con while: " + contador);
     }
@@ -23,4 +23,4 @@ do {
         console.log("Realizado con do...while: " + contador2);
     }
     contador2++;
-} while(contador2 <= 100);
+} while(contador2 <= 10);

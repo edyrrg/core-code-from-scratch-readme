@@ -22,6 +22,7 @@ console.log(parseInt(6 / 2))
 console.log(foldArray([1, 2, 3, 4, 5], 3))
 console.log(foldArray([9, 6], 1))
 console.log(foldArray([5]))
+console.log(foldArray([5, 6, 4, 5]))
 
 var encryptThis = function (text) {
     // Implement me! :)
@@ -36,3 +37,57 @@ var encryptThis = function (text) {
 }
 
 console.log(encryptThis('New World'))
+
+console.log(typeof 2)
+
+const a = [1, 2, 3, 4, 5]
+
+a.length = 2
+console.log(a)
+console.log(true === 1)
+var b = [1, 2]
+var c = [3, 5]
+
+console.log(b.concat(c))
+
+const d = [3, 4, 5]
+
+function filteDuplicates(data) {
+    // Write your code here
+    // To debug: console.error('Debug messages...');
+    let result = []
+    for (let i = 0; i < data.length; i++) {
+        console.log(data[i])
+        if (!result.includes(data[i])) {
+            result.push(data[i])
+        }
+    }
+    return result;
+}
+
+function filterDuplicates(data) {
+    // Write your code here
+    // To debug: console.error('Debug messages...');
+    let result = []
+    data.filter((item) => {
+        if (!result.includes(item))
+            return result.push(item)
+    })
+    return result;
+}
+
+
+console.log(filterDuplicates([1]))
+
+function decirHola() {
+    return 'Hola mundo'
+}
+
+console.log(decirHola())
+
+/**
+ * 1. Instalar Quokka.js
+ * 2. presionar en el archivo que deseamos ejecutar Ctrl + p
+ * 3. en el recuadro escribimos '>Quokka'
+ * 4. elegimos la opcion Start on current file
+ */

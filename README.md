@@ -21,3 +21,9 @@
   * __[02/08/2022]__ - [Tuesday](src/week_03/02-08-2022/)
   * __[03/08/2022]__ - [Wednesday](src/week_03/03-08-2022/)
   * __[04/08/2022]__ - [Thursday](src/week_03/04-08-2022/)
+
+## My Mission Statement
+
+Hola, mi nombre es Edy, soy estudiante de Ingenieria, estoy aprendiendo sobre el desarrollo de software en el bootcamp fundamentals. Quiero convertirme en en un gran desarrollador de software para poder trabajar en la industria de la tecnologia y compartir mis conocimientos. Soy muy curioso, resiliente y creo que todos deberiamos de tener la oportunidad de vivir sabroso. Todos los dias trabajo en mi futuro.
+
+Hello, my name is Edy, I am an engineering student, I am learning about software development in the fundamentals bootcamp. I want to become a great software developer so I can work in the technology industry and share my knowledge. I am very curious, resilient and I believe that everyone should have the opportunity to live tasty. Every day I work on my future.
