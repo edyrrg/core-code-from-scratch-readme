@@ -83,7 +83,7 @@ function decirHola() {
     return 'Hola mundo'
 }
 
-console.log(decirHola())
+
 
 /**
  * 1. Instalar Quokka.js
