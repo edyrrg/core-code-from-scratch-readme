@@ -1,3 +1,4 @@
+![alt text](assets/bg.png 'my background')
 
 # core-code-from-scratch-readme
 
@@ -27,7 +28,11 @@
   * __[extra_work]__ - [katas_challenge](/src/week_04/)
 
 * __Week_05__
-  * __[extra_work]__ - [katas_challenge](/src/week_05/)
+  * __[extra_work]__ - [extra_work](/src/week_05/)
+
+* __Week_06__
+  * __[22/08/2022]__ - [Monday](/src/week_06/22-08-2022/)
+  * __[23/08/2022]__ - [Tuesday](src/week_06/23-08-2022/)
 
 ## My Mission Statement
 

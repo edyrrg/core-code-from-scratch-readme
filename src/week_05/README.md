@@ -30,3 +30,5 @@ TypeScript is a super set of JavaScript.
 
 TypeScript adds additional syntax to JavaScript to support a tighter integration </br>
 with your editor. Catch errors early in your editor.
+
+[Regresar](/README.md)
