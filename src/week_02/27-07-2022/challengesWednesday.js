@@ -51,3 +51,18 @@ function finalGrade(exam, projects) {
     }
     return 0;
 }
+
+function calc(array, n1, n2) {
+    if (!(n1 >= 0)) return undefined;
+    if (!(n1 <= n2)) return undefined;
+    if (!(n2 < array.length)) return undefined;
+
+    return array.filter((item, index) => {
+        if(index >= n1 && index <= n2){
+            return item;
+        }
+    })
+    .reduce((previus, current) => previus +  current)
+}
+
+console.log(calc([0, 1, 2, 3, 4, 5, 3], 0, 5))

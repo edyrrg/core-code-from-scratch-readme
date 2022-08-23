@@ -1,3 +1,4 @@
+
 # core-code-from-scratch-readme
 
 > Welcome! </br>
@@ -21,6 +22,12 @@
   * __[02/08/2022]__ - [Tuesday](src/week_03/02-08-2022/)
   * __[03/08/2022]__ - [Wednesday](src/week_03/03-08-2022/)
   * __[04/08/2022]__ - [Thursday](src/week_03/04-08-2022/)
+
+* __Week_04__
+  * __[extra_work]__ - [katas_challenge](/src/week_04/)
+
+* __Week_05__
+  * __[extra_work]__ - [katas_challenge](/src/week_05/)
 
 ## My Mission Statement
 
