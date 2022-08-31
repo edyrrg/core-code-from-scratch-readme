@@ -1,10 +1,3 @@
-# TypeScript Challenge
-
-## exercise 1
-
-Respuesta//
-
-``` TypeScript
 export interface User {
     name: string;
     age: number;
@@ -30,18 +23,12 @@ export function logPerson(user: User) {
 
 console.log('Users:');
 users.forEach(logPerson);
-```
 
-## exercise 2
-
-Respuesta//
-
-```TS
-interface User {
-    name: string;
-    age: number;
-    occupation: string;
-}
+// interface User {
+//     name: string;
+//     age: number;
+//     occupation: string;
+// }
 
 interface Admin {
     name: string;
@@ -74,13 +61,8 @@ export const persons: Person[]  = [
     }
 ];
 
-export function logPerson(user: Person) {
+export function logPerson1(user: Person) {
     console.log(` - ${user.name}, ${user.age}`);
 }
 
-persons.forEach(logPerson);
-```
-
-[archivo_ts](/src/week_06/22-08-2022/tschallenge.ts)
-
-[Regresar](/README.md)
+persons.forEach(logPerson1);

@@ -2,8 +2,8 @@
 
 # core-code-from-scratch-readme
 
-> Welcome! </br>
-> This is my __README.md__ for bootcamp fundamentals :D. </br>
+Welcome! </br>
+This is my __README.md__ for bootcamp fundamentals (ɔ◔‿◔)ɔ ♥ </br>
 
 ## Index
 
@@ -28,14 +28,24 @@
   * __[extra_work]__ - [katas_challenge](/src/week_04/)
 
 * __Week_05__
-  * __[extra_work]__ - [extra_work](/src/week_05/)
+  * __[extra_work]__ - [about_TypeScript](/src/week_05/)
 
 * __Week_06__
   * __[22/08/2022]__ - [Monday](/src/week_06/22-08-2022/)
-  * __[23/08/2022]__ - [Tuesday](src/week_06/23-08-2022/)
+  * __[23/08/2022]__ - [Tuesday](/src/week_06/23-08-2022/)
+  * __[24/08/2022]__ - [Wednesday](/src/week_06/24-08-2022/)
+  * __[25/08/2022]__ - [Thursday](src/week_06/25-08-2022/)
+
+* __Week_07__
+  * __[29/08/2022]__ - [Monday](/)
+  * __[30/08/2022]__ - [Thursday](/)
+  * __[31/08/2022]__ - [Wednesday](/)
+  * __[01/09/2022]__ - [Thursday](/)
 
 ## My Mission Statement
 
-Hola, mi nombre es Edy, soy estudiante de Ingenieria, estoy aprendiendo sobre el desarrollo de software en el bootcamp fundamentals. Quiero convertirme en en un gran desarrollador de software para poder trabajar en la industria de la tecnologia y compartir mis conocimientos. Soy muy curioso, resiliente y creo que todos deberiamos de tener la oportunidad de vivir sabroso. Todos los dias trabajo en mi futuro.
+>Hola, mi nombre es Edy, soy estudiante de Ingenieria, estoy aprendiendo sobre el desarrollo de software en el bootcamp fundamentals. Quiero convertirme en en un gran desarrollador de software para poder trabajar en la industria de la tecnologia y compartir mis conocimientos. Soy muy curioso, resiliente y creo que todos deberiamos de tener la oportunidad de vivir sabroso. Todos los dias trabajo en mi futuro.
 
-Hello, my name is Edy, I am an engineering student, I am learning about software development in the fundamentals bootcamp. I want to become a great software developer so I can work in the technology industry and share my knowledge. I am very curious, resilient and I believe that everyone should have the opportunity to live tasty. Every day I work on my future.
+</br>
+
+>Hello, my name is Edy, I am an engineering student, I am learning about software development in the fundamentals bootcamp. I want to become a great software developer so I can work in the technology industry and share my knowledge. I am very curious, resilient and I believe that everyone should have the opportunity to live tasty. Every day I work on my future.
