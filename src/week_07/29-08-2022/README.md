@@ -101,8 +101,8 @@ Aplicando todos los conceptos vistos con anterioridad, ejemplificando y explican
 ![cat](./src/assets/images/catClass.png)
 
 * A traves de la clase `Main` crearemos dos mascotas una de tipo `Dog` y la otra de tipo `Cat`.
-  * Y llamaremos a sus metodos `makeSound()` para observar como cada uno, implemento este metodo.
-  * Al mismo tiempo, también podemos llamar al metodo `viewNameTag()` el cual es un método que ambas clases heredan de `Pet` y por esa razón puede hacerse ese llamado a ese método.
+  * Y llamaremos a sus metodos `makeSound()` para observar como cada uno implemento este metodo.
+  * Al mismo tiempo, también podemos llamar al metodo `viewNameTag()` el cual es un método que ambas clases heredan de `Pet` y por esa razón puede hacer ese llamado a ese método.
 
 ![main](./src/assets/images/mainClass.png)
 
