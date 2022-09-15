@@ -48,8 +48,8 @@ This is my __README.md__ for bootcamp fundamentals (ɔ◔‿◔)ɔ ♥ </br>
   * __[08/09/2022]__ - [Thursday](/src/week_08/08-09-2022/)
 
 * __Week_09__
-  * __[12/09/2022]__ - [Monday]
-
+  * __[12/09/2022]__ - [Monday](/)
+  * __[13/09/2022]__ - [Tueday](/)
 
 ## My Mission Statement
 

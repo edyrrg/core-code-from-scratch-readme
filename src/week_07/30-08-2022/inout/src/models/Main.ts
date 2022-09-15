@@ -57,8 +57,8 @@ export default class Main {
      * Check how the functions work
      * Have fun!! :D
      */
-    // await this.singleInput();
-    // await this.formInput();
+    await this.singleInput();
+    await this.formInput();
     // await this.selectInput();
     // await this.selectByIdInput();
     // await this.confirmInput();
