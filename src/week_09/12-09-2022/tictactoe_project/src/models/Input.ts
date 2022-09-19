@@ -9,7 +9,7 @@ export type Choice = { name: string; message: string };
 export type SelectChoice = { option: number; message: string };
 type Choices = Choice[] | string[];
 type UserOptionAux = { data: string };
-type SelectChoices = SelectChoice[];
+export type SelectChoices = SelectChoice[];
 
 export default class Input {
   static async getInput(message: string): Promise<UserInput> {
