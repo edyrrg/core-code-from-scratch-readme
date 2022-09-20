@@ -12,6 +12,6 @@ Redaccion sobre las instrucciones
 
 gifs sobre el juego
 
-[Proyecto](./tictactoe_project/README.md)
+[Proyecto](./tictactoe_project/)
 
 [Regresar](/README.md)
