@@ -64,10 +64,10 @@ This is my __README.md__ for bootcamp fundamentals (ɔ◔‿◔)ɔ ♥ </br>
 
 ## My Social Networks
 
-<div><a href="https://www.facebook.com/edy.rojasgonzalez.94/"><img style = "background: #fff" height="32" width="32" src="./assets/facebook.svg" /></a>
-<a href="https://twitter.com/edyrrg64/"><img style = "background: #fff"height="32" width="32" src="./assets/twitter.svg" /></a>
+<a href="https://www.facebook.com/edy.rojasgonzalez.94/"><img style = "background: #fff" height="32" width="32" src="./assets/facebook.svg" /></a>
+<a href="https://twitter.com/edyrrg64/"><img style = "background: #fff" height="32" width="32" src="./assets/twitter.svg" /></a>
 <a href="https://www.instagram.com/ryuk.owo/"><img style = "background: #fff" height="32" width="32" src="./assets/instagram.svg" /></a>
 <a href="https://www.twitch.tv/edyrrg/"><img style = "background: #fff" height="32" width="32" src="./assets/twitch.svg" /></a>
 <a href="https://www.codewars.com/users/edyrrg/"><img style = "background: #fff" height="32" width="32" src="./assets/codewars.svg" /></a>
 <a href="https://github.com/edyrrg"><img style = "background: #fff" height="32" width="32" src="./assets/github.svg" /></a>
-<a href="https://www.linkedin.com/in/edy-rojas-gonzalez-045856127/"><img style = "background: #fff" height="32" width="32" src="./assets/linkedin.svg" /></a></div>
+<a href="https://www.linkedin.com/in/edy-rojas-gonzalez-045856127/"><img style = "background: #fff" height="32" width="32" src="./assets/linkedin.svg" /></a>
