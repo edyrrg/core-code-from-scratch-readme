@@ -5,3 +5,7 @@ jspm_packages/
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/
 dist/
+
+# vscode
+
+**.svg:Zone.Identifier

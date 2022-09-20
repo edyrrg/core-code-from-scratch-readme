@@ -102,4 +102,6 @@ Se aplica SCRUM o no se aplica SCRUM, la metodología fue creada por un razón.
 
 ## Certificación SCRUM essentials
 
-[link](https://www.credential.net/f4736b93-439d-444c-aa36-ea823003792b)
+[certificate_link](https://www.credential.net/f4736b93-439d-444c-aa36-ea823003792b)
+
+[Regresar](/)

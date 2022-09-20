@@ -29,3 +29,5 @@ abstract class Person {
 ```
 
 [source](https://www.tutorialsteacher.com/typescript/abstract-class)
+
+[Regresar](/)

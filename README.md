@@ -61,3 +61,13 @@ This is my __README.md__ for bootcamp fundamentals (ɔ◔‿◔)ɔ ♥ </br>
 </br>
 
 >Hello, my name is Edy, I am an engineering student, I am learning about software development in the fundamentals bootcamp. I want to become a great software developer so I can work in the technology industry and share my knowledge. I am very curious, resilient and I believe that everyone should have the opportunity to live tasty. Every day I work on my future.
+
+## My Social Networks
+
+<a href="https://www.facebook.com/edy.rojasgonzalez.94/"><img height="32" width="32" src="./assets/facebook.svg" /></a>
+<a href="https://twitter.com/edyrrg64/"><img height="32" width="32" src="./assets/twitter.svg" /></a>
+<a href="https://www.instagram.com/ryuk.owo/"><img height="32" width="32" src="./assets/instagram.svg" /></a>
+<a href="https://www.twitch.tv/edyrrg/"><img height="32" width="32" src="./assets/twitch.svg" /></a>
+<a href="https://www.codewars.com/users/edyrrg/"><img height="32" width="32" src="./assets/codewars.svg" /></a>
+<a href="https://github.com/edyrrg"><img height="32" width="32" src="./assets/github.svg" /></a>
+<a href="https://www.linkedin.com/in/edy-rojas-gonzalez-045856127/"><img height="32" width="32" src="./assets/linkedin.svg" /></a>
