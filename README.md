@@ -64,10 +64,10 @@ This is my __README.md__ for bootcamp fundamentals (ɔ◔‿◔)ɔ ♥ </br>
 
 ## My Social Networks
 
-<div style="background-color:#fff"><a href="https://www.facebook.com/edy.rojasgonzalez.94/"><img style = "background: #fff" height="32" width="32" src="./assets/facebook.svg" /></a>
-<a href="https://twitter.com/edyrrg64/"><img style = "background: #fff" height="32" width="32" src="./assets/twitter.svg" /></a>
-<a href="https://www.instagram.com/ryuk.owo/"><img style = "background: #fff" height="32" width="32" src="./assets/instagram.svg" /></a>
-<a href="https://www.twitch.tv/edyrrg/"><img style = "background: #fff" height="32" width="32" src="./assets/twitch.svg" /></a>
-<a href="https://www.codewars.com/users/edyrrg/"><img style = "background: #fff" height="32" width="32" src="./assets/codewars.svg" /></a>
-<a href="https://github.com/edyrrg"><img style = "background: #fff" height="32" width="32" src="./assets/github.svg" /></a>
-<a href="https://www.linkedin.com/in/edy-rojas-gonzalez-045856127/"><img style = "background: #fff" height="32" width="32" src="./assets/linkedin.svg" /></a></div>
+<a href="https://www.facebook.com/edy.rojasgonzalez.94/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://twitter.com/edyrrg64/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/ryuk.owo/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.twitch.tv/edyrrg/"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+<a href="https://www.codewars.com/users/edyrrg/"><img  src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>
+<a href="https://github.com/edyrrg"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/edy-rojas-gonzalez-045856127/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
