@@ -1,3 +1,6 @@
+import Player from "./Player";
+import { Tile } from "./Tile";
+
 export default class Board {
     private _board: number[][];
 
@@ -43,10 +46,10 @@ export default class Board {
      * @param code number about code for selection type of char
      * @returns selection char
      */
-    private selectSquare(code: number): string {
+    private selectSquare(code: number, count: number): string {
         switch (code) {
             case -1:
-                return ' '
+                return `${count}`
             case 1:
                 return 'X'
             case 0:
@@ -59,19 +62,27 @@ export default class Board {
     resetBoard() {
         this.board = this.createAndClearBoard()
     }
-
-    printer() {
+    /**
+     * display board and banner of players in the console
+     * @param listPlayer array of players
+     */
+    printer(listPlayer: Player[]) {
         let board: number[][] = this.board
         let linea: string = '';
-        console.log('\n')
+        let count: number = 0;
+
+        Tile.displayBanner(listPlayer)
+
         for (let i = 0; i < 3; i++) {
             linea += "\t"
             for (let j = 0; j < 3; j++) {
-                let square: string = this.selectSquare(board[i][j])
-                if (j < 2)
-                    linea += ` ${square} |`
-                if (j === 2)
-                    linea += ` ${square}`
+                count++
+                let square: string = this.selectSquare(board[i][j], count)
+                if (j === 1) {
+                    linea += `| ${square} |`
+                } else {
+                    linea += ` ${square} `
+                }
             }
             if (linea.length > 0)
                 console.log(linea)
@@ -79,6 +90,6 @@ export default class Board {
                 console.log("\t-----------")
             linea = ''
         }
-        console.log('\n')
+        console.log('')
     }
 }

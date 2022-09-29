@@ -20,9 +20,6 @@ export default class Main {
             { option: 2, message: 'Show Last Game' },
             { option: 3, message: 'Exit Game' }
         ];
-
-        const rp = await this.game.createPlayers()
-
         while (this.band == false) {
             this.displayMenu()
             res = await Input.getSelect("Select Option ", selectChoices)
@@ -33,9 +30,11 @@ export default class Main {
     selectOption(index: number) {
         switch (index) {
             case 1:
+                console.clear()
                 this.startGame()
                 break;
             case 2:
+                console.clear()
                 this.showLastGame()
                 break;
             case 3:
@@ -43,7 +42,7 @@ export default class Main {
                 this.band = true
                 break;
             default:
-                console.error('opcion incorrecta, mejor tu codigo no esta haciendo lo que quieres... :c')
+                console.error('opcion incorrecta, tu codigo no esta haciendo lo que quieres... :c')
         }
     }
 
@@ -52,10 +51,7 @@ export default class Main {
     }
 
     startGame() {
-        const newPlayer = new Player('Edy');
-        newPlayer.sayMyName()
-        const newBoard = new Board()
-        newBoard.printer()
+        this.game.startGame()
     }
 
     displayMenu() {

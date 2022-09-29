@@ -4,30 +4,31 @@ import Player from "./Player";
 
 export default class TicTacToe {
     private history: any;
+    private endGame: boolean;
     private board: Board;
-    private playerArr: Player[];
+    private _players: Player[];
 
     constructor() {
         this.board = new Board()
-        this.playerArr = [];
-        this.createPlayers()
+        this._players = new Array(2);
+        this.endGame = false;
+    }
+
+    get players(): Player[] {
+        return this._players
     }
 
     async createPlayers() {
-        let tmpPlayer: Player;
+        // let tmpPlayer: Player;
         let name: string;
 
-        console.log('\nPlayer One...')
-        name = (await this.createNametoPlayer()) as string
-        tmpPlayer = new Player(name)
-        this.playerArr.push(tmpPlayer)
+        for (let i = 0; i < this.players.length; i++) {
+            console.log('\nPlayer...')
+            name = (await this.createNametoPlayer()) as string
+            this.players[i] = new Player(name)
+        }
 
-        console.log('\nPlayer Two...')
-        name = (await this.createNametoPlayer()) as string
-        tmpPlayer = new Player(name)
-        this.playerArr.push(tmpPlayer)
-
-        this.playerArr.forEach(el => el.sayMyName())
+        this.players.forEach(el => el.sayMyName())
     }
 
     checkGoodName(nameValidate: string) {
@@ -52,7 +53,25 @@ export default class TicTacToe {
         return res.data.toString()
     }
 
-    displayEnMessage() {
+    displayGame() {
+        this.board.printer(this.players)
+    }
+
+    startGame() {
+        while(this.endGame){
+            
+        }
+    }
+
+    isEndGame(){
+        
+    }
+
+    displayEndMessage() {
+
+    }
+
+    move() {
 
     }
 }
