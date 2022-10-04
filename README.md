@@ -60,6 +60,9 @@ This is my __README.md__ for bootcamp fundamentals (ɔ◔‿◔)ɔ ♥ </br>
   * __[28/09/2022]__ - [Wednesday](/src/week_11/28-09-2022/)
   * __[29/09/2022]__ - [Thursday](/src/week_11/29-09-2022/)
 
+* __Week_12__
+  * __[05/10/2022]__ - [Wednesday](#index)
+
 ## My Mission Statement
 
 >Hola, mi nombre es Edy, soy estudiante de Ingenieria, estoy aprendiendo sobre el desarrollo de software en el bootcamp fundamentals. Quiero convertirme en en un gran desarrollador de software para poder trabajar en la industria de la tecnologia y compartir mis conocimientos. Soy muy curioso, resiliente y creo que todos deberiamos de tener la oportunidad de vivir sabroso. Todos los dias trabajo en mi futuro.
