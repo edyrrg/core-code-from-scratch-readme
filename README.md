@@ -58,6 +58,7 @@ This is my __README.md__ for bootcamp fundamentals (ɔ◔‿◔)ɔ ♥ </br>
 * __Week_11__
   * __[27/09/2022]__ - [Tuesday](/src/week_11/27-09-2022/)
   * __[28/09/2022]__ - [Wednesday](/src/week_11/28-09-2022/)
+  * __[29/09/2022]__ - [Thursday](/src/week_11/29-09-2022/)
 
 ## My Mission Statement
 
