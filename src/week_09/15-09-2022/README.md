@@ -29,7 +29,7 @@ soy un persona bastante tratable y abierta por lo que la comunicacion no sera un
 
 10. Carezco de experiencia de trabajo formal en la industria, pero aprendo muy rapido, mantengo buena comunicación y no es dificil enseñarme.
 
-11. Espero poder ganar entre Q3,500(500 dls) - Q6,000(800 dls)
+11. Espero poder ganar entre Q3,500(500 dls) - Q6,000(800 dls), abierto a negociaciones y dependiendo de responsabilidades.
 
 12. ¿Deseas hacerme alguna pregunta?, 1. Suggestions
     1. How does growth inside the company?
@@ -37,3 +37,7 @@ soy un persona bastante tratable y abierta por lo que la comunicacion no sera un
     3. How have you experienced the culture at this company as an employee?
     4. Do employees have resources available for growth from the company?
     5. How will you evaluate my performance?
+
+- Feedback, enfocarme en mi rol a inicio de la charla(años utilizando las tecnologias), mencionar mis proyectos favs(descripciones concretas), lo que me respalda, lo que estoy aprendiendo.
+
+R//
