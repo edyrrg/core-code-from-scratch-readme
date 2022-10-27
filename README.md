@@ -1,6 +1,6 @@
-![alt text](assets/bg.png 'my background')
-
 # core-code-from-scratch-readme
+
+![alt text](assets/bg.png 'my background')
 
 Welcome! </br>
 This is my __README.md__ for bootcamp fundamentals (ɔ◔‿◔)ɔ ♥ </br>
@@ -62,6 +62,14 @@ This is my __README.md__ for bootcamp fundamentals (ɔ◔‿◔)ɔ ♥ </br>
 
 * __Week_12__
   * __[05/10/2022]__ - [Wednesday](/src/week_12/05-10-2022/)
+
+## Project
+
+Todo List en el que se crean, modifican, eliminan y se marcan completadas las tareas creadas por el usuario, la app consume una api con la que se conecta con la base de datos para el almacenamiento de la información.
+
+En este projecto conectamos el backend y el frontend utilizando una api, en el frontend se utilizo React y el backend express, Node.JS y SQLite como base de datos.
+
+[GitHub-repo](https://github.com/edyrrg/todolist)
 
 ## My Mission Statement
 
